@@ -1,0 +1,7 @@
+/* Sidebar scale */
+.workspace-arrowscrollbox > *,
+.zen-current-workspace-indicator,
+.zen-essentials-container,
+#zen-sidebar-foot-buttons {
+  zoom: 0.8;
+}
