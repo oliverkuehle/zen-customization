@@ -5,3 +5,8 @@
 #zen-sidebar-foot-buttons {
   zoom: 0.8;
 }
+
+/* Sharp instead of rounded corners */
+html#main-window {
+  --zen-border-radius: 0 !important;
+}
